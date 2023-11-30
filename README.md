@@ -133,3 +133,27 @@ public static Connection getConnection() {
 - **Eliminar**: Se usa `DELETE` con un `PreparedStatement` para eliminar un registro basado en un ID dado.
 
 El patrón DAO (Data Access Object) encapsula estas operaciones CRUD, lo que significa que cada operación está contenida dentro de métodos específicos en la clase `EstudianteDAO`, permitiendo que la lógica de acceso a datos esté separada de la lógica de negocio principal de la aplicación.
+
+Durante la elaboración de un proyecto de programación como el descrito, las fuentes y recursos consultados pueden incluir:
+
+1. **Documentación Oficial de Java**: Para comprender las clases y métodos de Java.
+   - [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+
+2. **Documentación Oficial de JDBC**: Para detalles específicos sobre la conexión y operaciones con bases de datos.
+   - [JDBC API Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+
+3. **Documentación de MySQL**: Para referencia sobre la sintaxis SQL y el uso de MySQL.
+   - [MySQL Documentation](https://dev.mysql.com/doc/)
+
+4. **Documentación de Maven**: Para la gestión de dependencias y configuración del proyecto.
+   - [Maven Project Documentation](https://maven.apache.org/guides/index.html)
+
+5. **Stack Overflow y Foros de la Comunidad**: Para resolver dudas específicas y problemas comunes.
+   - [Stack Overflow](https://stackoverflow.com/)
+
+6. **IntelliJ IDEA Documentation**: Para aprender a usar características específicas del IDE.
+   - [IntelliJ IDEA Documentation](https://www.jetbrains.com/idea/documentation/)
+
+7. **Tutoriales y Guías en Línea**: Para aprender sobre patrones de diseño, mejores prácticas y guías paso a paso.
+   - Blogs de desarrollo, canales de YouTube y plataformas educativas como Udemy o Coursera.
+
