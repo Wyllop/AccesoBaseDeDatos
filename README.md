@@ -68,7 +68,7 @@ El proyecto está estructurado en cuatro clases principales, cada una con una re
     - **Características**: Proporciona un método estático `getConnection` que utiliza `DriverManager` para conectarse a MySQL.
     - **Relación con otras clases**: Es utilizada por `EstudianteDAO` para obtener la conexión necesaria para las operaciones de la base de datos.
 
-![UD2.png](target%2Fclasses%2Forg%2Fsocket%2FUD2.png)
+![UD2.png](UD2.png)
 
 Instrucciones de Instalación y Configuración
 
