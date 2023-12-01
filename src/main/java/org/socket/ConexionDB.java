@@ -14,7 +14,7 @@ public class ConexionDB {
             // Intenta establecer una conexión con la base de datos usando las credenciales proporcionadas
             return DriverManager.getConnection(URL, USER, PASSWORD);
         } catch (Exception e) {
-            // Captura cualquier excepción, la imprime en la consola y devuelve null
+            // Captura cualquier excepción, la imprime en la consola y devuelve null 
             e.printStackTrace();
             return null;
         }
